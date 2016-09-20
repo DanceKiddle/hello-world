@@ -1,2 +1,15 @@
 # hello-world
-Just a begin.
+
+Hello Humans!
+
+I come from the moon.
+...
+And I'm learning English recently.
+...
+And I'm Simon.
+...
+And I don't like programming.
+...
+And it is just the beginning.
+...
+And over!
